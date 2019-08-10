@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#body{
+    text-align: center;
+    align-content: center;
+}
+
+.d-block{
+    max-height: 12em
+}
+
+.navbar{
+    color: white
+}
