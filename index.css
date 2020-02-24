@@ -15,3 +15,14 @@ body{
 .navbar{
     color: white
 }
+
+.bioImg{
+    height: 50%;
+    width: 50%
+}
+
+.carousel-item{
+    margin-left: 40%;
+    height: 15em;
+    
+}
